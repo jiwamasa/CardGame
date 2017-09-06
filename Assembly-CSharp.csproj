@@ -50,11 +50,12 @@
      <Compile Include="Assets\scripts\Deck.cs" />
      <Compile Include="Assets\scripts\Draggable.cs" />
      <Compile Include="Assets\scripts\Dragger.cs" />
-     <Compile Include="Assets\scripts\SetToCanvas.cs" />
      <Compile Include="Assets\scripts\SpawnPanel.cs" />
      <Compile Include="Assets\scripts\networking\MyNetworkManager.cs" />
      <Compile Include="Assets\scripts\networking\NetworkStarter.cs" />
      <Compile Include="Assets\scripts\networking\NetworkUtility.cs" />
+     <Compile Include="Assets\scripts\ui\ContextMenu.cs" />
+     <Compile Include="Assets\scripts\ui\SetToCanvas.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
